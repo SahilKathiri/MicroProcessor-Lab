@@ -1,4 +1,4 @@
-TA SEGMENT
+DATA SEGMENT
         NUM1 DB 89H
         NUM2 DB 7CH
         RES DW ?

@@ -1,4 +1,4 @@
-mall
+.model small
 
 .data
 num1 db 20h
@@ -13,4 +13,3 @@ start:  mov ax, @data
     mov num3, al
     int 3
     end start
-

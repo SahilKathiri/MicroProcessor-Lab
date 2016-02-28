@@ -1,4 +1,4 @@
-mall
+.model small
 .data
 num1 db 20
 num2 db 30
