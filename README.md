@@ -13,3 +13,6 @@ Click on the file name to go to that file.
 |  [`rdfile.asm`](rdfile.asm)   |    Read a string into a file   | 
 |   [`wrfile.asm`](wrfile.asm)  |   Write a string into a file (after creating it)    | 
 |  [`distime.asm`](distime.asm)   |   Display system time    | 
+|  [`drapix.asm`](drapix.asm)   |   Draw a single pixel on screen    | 
+|  [`draline.asm`](draline.asm)   |   Draw a horizontal line on the screen    | 
+|  [`sixd.asm`](sixd.asm)   |   Draw six multicolored 'D's on the screen    | 
