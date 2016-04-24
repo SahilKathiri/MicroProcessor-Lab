@@ -15,4 +15,4 @@ Click on the file name to go to that file.
 |  [`distime.asm`](distime.asm)   |   Display system time    | 
 |  [`drapix.asm`](drapix.asm)   |   Draw a single pixel on screen    | 
 |  [`draline.asm`](draline.asm)   |   Draw a horizontal line on the screen    | 
-|  [`sixd.asm`](sixd.asm)   |   Draw six multicolored 'D's on the screen    | 
+|  [`six_d.asm`](six_d.asm)   |   Draw six multicolored 'D's on the screen    | 
