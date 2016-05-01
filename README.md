@@ -114,6 +114,22 @@
 <td>Draw six multicolored 'D's on the screen</td>
 
 </tr>
+<tr>
+<td><a href="45mul.asm"><code>45mul.asm</code></a></td>
+<td>Multiply 4 five times without using mul</td>
+<td>Lab - 11</td>
+</tr>
+<tr>
+<td><a href="exclam.asm"><code>exclam.asm</code></a></td>
+<td>Fill the screen with exclamation marks</td>
+
+</tr>
+<tr>
+<td><a href="pow.asm"><code>pow.asm</code></a></td>
+<td>Find the power of a number with base and power in memory</td>
+
+</tr>
+
 </tbody>
 </table>
 
